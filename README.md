@@ -1,5 +1,4 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ... https://messcat-38.github.io/
 
 <!--
 **messcat-38/messcat-38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
